@@ -47,6 +47,10 @@ export function Empleados() {
 
   return (
     <>
+      <section>
+        <h2 className="titulo_servicios">Empleados</h2>
+      </section>
+      <h3>Contamos con personal idoneo</h3>
       <div className="container mt-5">
         <div className="row row-cols-1 row-cols-md-3">
           {Empleados.map(function (empleado) {

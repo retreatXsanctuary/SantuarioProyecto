@@ -6,25 +6,9 @@
 }
 
 .card {
-  width: 300px;
+  padding: 2.5rem;
+  width: 400px;
   height: 400px;
-  margin: auto;
-}
-
-
-.btnservices{
-    background-color: #846954;
-    padding: 1%;
-    border: #846954;
-    width: 200px;
-    font-size: 20px;
-    font-weight: bold;
-    color: #DFDFD4;
-    box-shadow: 10px 10px #c5bbb3;
-}
-
-.button{
-    padding-top: 80px;
-    text-align: center;
-    padding-bottom: 5%;
+  margin-top: 2rem;
+  margin-left: 1rem;
 }

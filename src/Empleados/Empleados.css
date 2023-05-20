@@ -1,12 +1,3 @@
-img {
-  border-radius: 50%;
-}
-
-/* .container > .row >#tarjeta {
-  border-radius: 15px;
-  padding: 1rem;
-} */
-
 #tarjeta {
   border-radius: 15px;
   padding: 1rem;
@@ -20,6 +11,11 @@ img {
 }
 
 .card img {
+  border-radius: 50%;
   padding: 20px;
   margin: 0;
+}
+
+h3 {
+  text-align: center;
 }
