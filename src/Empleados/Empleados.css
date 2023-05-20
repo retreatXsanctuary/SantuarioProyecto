@@ -1,0 +1,25 @@
+img {
+  border-radius: 50%;
+}
+
+/* .container > .row >#tarjeta {
+  border-radius: 15px;
+  padding: 1rem;
+} */
+
+#tarjeta {
+  border-radius: 15px;
+  padding: 1rem;
+}
+
+.card {
+  padding: 2.5rem;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+}
+
+.card img {
+  padding: 20px;
+  margin: 0;
+}

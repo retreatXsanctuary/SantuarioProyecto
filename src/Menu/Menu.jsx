@@ -39,7 +39,7 @@ export function Menu() {
               </li>
 
               <li className="nav-item">
-                <Link className="nav-link" to="/sobrenosotros">
+                <Link className="nav-link" to="/empleados">
                   Empleados
                 </Link>
               </li>
