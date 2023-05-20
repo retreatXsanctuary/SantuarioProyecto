@@ -1,0 +1,30 @@
+.titulo_servicios {
+  font-size: 3rem;
+  text-align: center;
+  padding: 3%;
+  color: #846954;
+}
+
+.card {
+  width: 300px;
+  height: 400px;
+  margin: auto;
+}
+
+
+.btnservices{
+    background-color: #846954;
+    padding: 1%;
+    border: #846954;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #DFDFD4;
+    box-shadow: 10px 10px #c5bbb3;
+}
+
+.button{
+    padding-top: 80px;
+    text-align: center;
+    padding-bottom: 5%;
+}

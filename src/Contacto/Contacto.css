@@ -1,0 +1,48 @@
+.fondofans {
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/retreatsanctuary-379f9.appspot.com/o/nuevas%20imagenes%2Fcontacto.webp?alt=media&token=94c99bd1-66ed-4f8d-a05f-b5369c5dc646");
+  background-position: top center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 7%;
+  filter: grayscale(50%);
+  position: relative;
+  z-index: 1;
+}
+
+.fondofans::after {
+  content: "";
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  opacity: 0.5;
+}
+
+.titulofans {
+  font-weight: bold;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.line {
+  height: 10px;
+  background-color: #A5D74D;
+}
+
+.row {
+  padding-top: 30px;
+}
+
+.d-grid{
+    padding-top: 25px;
+}
+
+.btn{
+    background-color:  #A5D74D;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-size: 30px;
+}

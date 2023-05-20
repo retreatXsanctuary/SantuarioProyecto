@@ -1,0 +1,123 @@
+.footer-section {
+  background: #846954;
+  padding-bottom: 70px;
+}
+
+.footer-title {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: white;
+  font-size: 20px;
+  margin-bottom: 23px;
+  font-weight: 700;
+  position: relative;
+}
+
+.logo {
+  padding-left: 20px;
+  width: 220px;
+  height: 220px;
+}
+
+.quick-link-list {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.quick-link-list li a {
+  color: #fff;
+  margin-bottom: 15px;
+  display: block;
+}
+
+.footer-section-bottom {
+  background: #5f4837;
+  padding-bottom: 20px;
+}
+
+.footer-bottom-left p {
+  margin: 0px;
+  color: white;
+  text-align: center;
+}
+
+.footer-bottom-right p {
+  margin: 0;
+  color: white;
+  text-align: right;
+  text-align: center;
+}
+
+.footer-bottom-right p a {
+  color: white;
+}
+
+.title-transparent {
+  opacity: 0 !important;
+}
+
+#social {
+  margin: 20px 10px;
+  text-align: center;
+}
+
+.smGlobalBtn {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  border: 2px solid #ddd;
+  box-shadow: 0 3px 3px #999;
+  padding: 0px;
+  text-decoration: none;
+  text-align: center;
+  color: #fff;
+  font-size: 22px;
+  font-weight: normal;
+  line-height: 2em;
+  border-radius: 27px;
+  -moz-border-radius: 27px;
+  -webkit-border-radius: 27px;
+}
+
+.btnfacebook {
+  width: 50px;
+  height: 50px;
+}
+
+.btninstagram {
+  width: 50px;
+  height: 50px;
+}
+
+.twiter {
+  width: 50px;
+  height: 50px;
+}
+
+.youtube {
+  width: 50px;
+  height: 50px;
+}
+
+.snapchat {
+  width: 50px;
+  height: 50px;
+}
+
+.form-control-new {
+  border-radius: 100px;
+  position: relative;
+}
+
+.newsletter {
+  color: #fff;
+}
+
+.subscribe {
+  width: 100%;
+  border-radius: 100px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
